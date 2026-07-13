@@ -1,0 +1,2 @@
+  python is object oriented high level dynamically   
+ typed scripting language as well as programming language
